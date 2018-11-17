@@ -1,101 +1,101 @@
 ﻿city,p_avg,lat,long
-"Akron, Ohio",125000,41.0802,-81.5219
-"Albany, N.Y.",172000,42.6664,-73.7987
-"Allentown, Pa.",175000,40.5962,-75.4756
-"Atlanta, Ga.",190000,33.7627,-84.4231
-"Augusta, Ga.",147000,33.3644,-82.0708
+"Akron, Ohio",125000,41.080200,-81.521900
+"Albany, N.Y.",172000,42.666400,-73.798700
+"Allentown, Pa.",175000,40.596200,-75.475600
+"Atlanta, Ga.",190000,33.762700,-84.423100
+"Augusta, Ga.",147000,33.364400,-82.070800
 "Austin, Texas",251000,30.266926,-97.750519
-"Bakersfield, Calif.",199000,35.3528,-119.0354
+"Bakersfield, Calif.",199000,35.352800,-119.035400
 "Baltimore, Md.",238000,39.299236,-76.609383
-"Baton Rouge, La.",166000,30.4422,-91.1314
-"Birmingham, Ala.",131000,33.5276,-86.7986
-"Boise City, Idaho",215000,43.5991,-116.2306
+"Baton Rouge, La.",166000,30.442200,-91.131400
+"Birmingham, Ala.",131000,33.527600,-86.798600
+"Boise City, Idaho",215000,43.599100,-116.230600
 "Boston, Mass.",398000,42.361145,-71.057083
-"Bridgeport, Conn.",365000,41.1909,-73.1958
-"Buffalo, N.Y.",125000,42.88023,-78.878738
-"Cape Coral, Fla.",200000,26.644,-81.9961
+"Bridgeport, Conn.",365000,41.190900,-73.195800
+"Buffalo, N.Y.",125000,42.880230,-78.878738
+"Cape Coral, Fla.",200000,26.644000,-81.996100
 "Charleston, S.C.",238000,32.784618,-79.940918
-"Charlotte, N.C.",198000,35.208,-80.8308
-"Chattanooga, Tenn.",131000,35.0657,-85.2488
+"Charlotte, N.C.",198000,35.208000,-80.830800
+"Chattanooga, Tenn.",131000,35.065700,-85.248800
 "Chicago, Ill.",218000,41.881832,-87.623177
-"Cinncinnati, Ohio",150000,39.1412,-84.506
-"Cleveland, Ohio",135000,41.4766,-81.6805
-"Colorado Springs, Colo.",260000,38.8673,-104.7605
-"Columbia, S.C.",133000,34.0366,-80.9043
+"Cinncinnati, Ohio",150000,39.141200,-84.506000
+"Cleveland, Ohio",135000,41.476600,-81.680500
+"Colorado Springs, Colo.",260000,38.867300,-104.760500
+"Columbia, S.C.",133000,34.036600,-80.904300
 "Columbus, Ohio",170000,,
-"Dallas, Texas",182000,32.89748,-97.040443
+"Dallas, Texas",182000,32.897480,-97.040443
 "Dayton, Ohio",115000,,
 "Deltona, Fla.",170000,,
-"Denver, Colo.",360000,39.7621,-104.8759
-"Des Moines, Iowa",173000,41.5725,-93.6104
-"Detroit, Mich.",145000,42.3834,-83.1024
-"Durham, N.C.",220000,35.9801,-78.9045
+"Denver, Colo.",360000,39.762100,-104.875900
+"Des Moines, Iowa",173000,41.572500,-93.610400
+"Detroit, Mich.",145000,42.383400,-83.102400
+"Durham, N.C.",220000,35.980100,-78.904500
 "Fayetteville, Ark.",163000,,
 "Fresno, Calif.",233000,36.746841,-119.772591
 "Grand Rapids, Mich.",155000,42.963795,-85.670006
 "Greensboro, N.C.",118000,,
-"Greenville, S.C.",170000,34.8364,-82.3649
+"Greenville, S.C.",170000,34.836400,-82.364900
 "Harrisburg, Pa.",162000,,
-"Hartford, Conn.",201000,29.4722,-98.5247
+"Hartford, Conn.",201000,29.472200,-98.524700
 "Honolulu, Hawaii",530000,,
 "Houston, Texas",170000,29.637964,-95.395935
 "Jacksonville, Fla.",170000,,
 "Knoxville, Tenn.",141000,35.964668,-83.926453
 "Lakeland, Fla.",146000,,
-"Lancaster, Pa.",184000,40.0421,-76.3012
+"Lancaster, Pa.",184000,40.042100,-76.301200
 "Lansing, Mich.",128000,,
 "Las Vegas, Nev.",240000,36.114647,-115.172813
 "Lexington, Ky.",167000,,
 "Little Rock, Ark.",140000,,
 "Los Angeles, Calif.",605000,34.052235,-118.243683
-"Louisville, Ky.",165000,31.781,-85.5583
-"Madison, Wis.",245000,43.0809,-89.3921
+"Louisville, Ky.",165000,31.781000,-85.558300
+"Madison, Wis.",245000,43.080900,-89.392100
 "McAllen, Texas",118000,,
 "Memphis, Tenn.",137000,,
 "Miami, Fla.",240000,25.761681,-80.191788
 "Milwaukee, Wis.",192000,,
-"Minneapolis-St. Paul, Minn.",235000,44.9635,-93.2679
-"Nashville, Tenn.",234000,36.1714,-86.7844
+"Minneapolis-St. Paul, Minn.",235000,44.963500,-93.267900
+"Nashville, Tenn.",234000,36.171400,-86.784400
 "New Orleans, La.",190000,29.951065,-90.071533
-"New York, N.Y.-N.J.",425000,40.73061,-73.935242
+"New York, NY",1250000,40.730610,-73.935242
 "Ogden, Utah",211000,,
 "Oklahoma City, Okla.",155000,35.481918,-97.508469
 "Omaha, Neb.",175000,,
 "Orlando, Fla.",205000,28.538336,-81.379234
-"Oxnard, Calif.",565000,34.1961,-119.1821
+"Oxnard, Calif.",565000,34.196100,-119.182100
 "Palm Bay, Fla.",160000,,
 "Pensacola, Fla.",155000,,
 "Philadelphia, Pa.",190000,39.952583,-75.165222
-"Phoenix, Ariz.",240000,33.5722,-112.0891
+"Phoenix, Ariz.",240000,33.572200,-112.089100
 "Pittsburgh, Pa.",125000,28.538336,-81.379234
 "Portland, Ore.",350000,45.523064,-122.676483
 "Port St. Lucie, Fla.",188000,,
-"Providence, R.I.",246000,41.8229,-71.4186
-"Provo, Utah",250000,40.2458,-111.6457
+"Providence, R.I.",246000,41.822900,-71.418600
+"Provo, Utah",250000,40.245800,-111.645700
 "Raleigh, N.C.",238000,35.787743,-78.644257
 "Reno, Nev.",320000,39.530895,-119.814972
-"Richmond, Va.",200000,37.5294,-77.4755
-"Riverside-San Bernardino, Calif.",320000,33.9382,-117.3949
+"Richmond, Va.",200000,37.529400,-77.475500
+"Riverside-San Bernardino, Calif.",320000,33.938200,-117.394900
 "Rochester, N.Y.",127000,,
-"Sacramento, Calif.",359000,38.5666,-121.4683
+"Sacramento, Calif.",359000,38.566600,-121.468300
 "Salt Lake City, Utah",301000,40.758701,-111.876183
-"San Antonio, Texas",170000,29.4722,-98.5247
-"San Diego, Calif.",530000,32.8312,-117.1225
+"San Antonio, Texas",170000,29.472200,-98.524700
+"San Diego, Calif.",530000,32.831200,-117.122500
 "San Francisco, Calif.",750000,37.733795,-122.446747
 "San Jose, Calif.",1000000,37.279518,-121.867905
-"Santa Rosa, Calif.",600000,38.4465,-122.7059
-"Sarasota, Fla.",225000,27.3391,-82.5439
+"Santa Rosa, Calif.",600000,38.446500,-122.705900
+"Sarasota, Fla.",225000,27.339100,-82.543900
 "Scranton-Wilkes Barre, Pa.",80000,,
 "Seattle, Wash.",417000,47.608013,-122.335167
-"Springfield, Mass.",195000,42.1155,-72.5395
+"Springfield, Mass.",195000,42.115500,-72.539500
 "St. Louis, Mo.",155000,38.627003,-90.199402
 "Stockton, Calif.",312000,,
 "Syracuse, N.Y.",106000,,
-"Tampa, Fla.",176000,27.9937,-82.4454
+"Tampa, Fla.",176000,27.993700,-82.445400
 "Toledo, Ohio",106000,,
-"Tucson, Ariz.",179000,32.1558,-110.8777
-"Tulsa, Okla.",150000,36.15398,-95.992775
-"Virginia Beach, Va.",215000,36.7335,-76.0435
+"Tucson, Ariz.",179000,32.155800,-110.877700
+"Tulsa, Okla.",150000,36.153980,-95.992775
+"Virginia Beach, Va.",215000,36.733500,-76.043500
 "Washington, D.C.",375000,38.889484,-77.035278
 "Winston-Salem, N.C.",137000,,
 "Youngstown, Ohio",75000,,
